@@ -15,7 +15,7 @@ _Key features:-_
 Xiret is released under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Current version
-2.1.0 Build 1JA12 (Release, *Stable*). Application written and compiled in Visual Studio 2019 with **.NET Framework 4.0**.
+2.1.0 Build 1JA12 (Release, *Stable*). Application written and compiled in Visual Studio 2019 with **.NET Framework 4.0**. Version 2.2.x is on the way, with a projected release of mid April 2021.
 
 ## Motivation
 Initially, Xiret was created to pass some time when the Experience Index UI was removed in Windows 8.1. Since it's growing into V2 I though 'why not share?'. VB isn't too hard to get into and it may help someone learn a thing or two, like I did. Other motivation was anti-virus engines flagging this software as malware, now everyone can see its guts they know they're safe.
