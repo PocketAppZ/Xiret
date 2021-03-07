@@ -5,7 +5,7 @@ _Key features:-_
  - Clean and friendly UI
  - Easily export scores as image or an text
  - See rated system hardware with a simple toggle
- - Imgur API for simple uploading (API Client ID not included)
+ - Imgur API for simple uploading (API Client ID included)
  - Full DPI support
  - Normal and verbose assessment modes
  - Made with portability in mind
