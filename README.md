@@ -2,6 +2,7 @@
 Xiret is a simple but powerful tool designed to replace the Experience Index User Interface that was removed in Windows 8.1. It features a beautiful, easy to use custom UI, no adverts or spam, and is completely free forever. It's compatible with all versions of Windows that shipped with the Experience Index (excluding server versions). This program was written as the Windows Experience Index UI was removed in Windows 8.1. Many applications that imitate the experience index either a. do not work properly, or b. have many adverts, so I created something stable and free.
 
 _Key features:-_
+
  · Clean, friendly and easy to use UI built for novice and expert users alike
  · View and generate Windows Experience Index scores with minimal effort*
  · Built using the WInSAT API for high compatibility
